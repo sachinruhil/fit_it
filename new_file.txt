@@ -1,0 +1,4 @@
+This is the first film which I made for git- and first we short do gti init
+Then git status : to know the status 
+Then  git add : to add the changes to git 
+Then git commit -m 'any_message_we_want_to_give'
